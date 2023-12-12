@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seodj93)](https://solved.ac/seodj93)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=one4all93)](https://solved.ac/seodj93)
 
 
 <!--
