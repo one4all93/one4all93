@@ -26,6 +26,7 @@
   <br>
 </div>
 
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seodj93)](https://solved.ac/seodj93)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=one4all93&show_icons=true&theme=transparent)
