@@ -26,7 +26,9 @@
   <br>
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seodj93)](https://solved.ac/seodj93)
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=seodj93)](https://solved.ac/seodj93)
+
+(https://github-readme-stats.vercel.app/api?username=one4all93&show_icons=true&theme=transparent)
 
 
 <!--
